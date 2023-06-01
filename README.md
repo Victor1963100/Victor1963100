@@ -14,7 +14,7 @@
 -  Автоматизация тестирования Frontend на JavaScript с помощью Puppeteer, Playwright, Cypress;
 -  Знание различных видов виртуализации и контейнеризации, работа с Docker и Docker Compose;
 -  Процессы CI/CD: тестирование, сборка и доставка в разные окружения;
--  Учебный проект по ручному тестированию веб-приложений;
+-  Учебный [проект](https://docs.google.com/spreadsheets/d/1nGvDaEwpIqhwsHfo_NtikDhN_UBIiSZYGXXHJk0cAwQ/edit#gid=0) по ручному тестированию веб-приложений;
 -  Учебный проект по Java
 
 ### Сертификаты Нетологии
