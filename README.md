@@ -1,7 +1,7 @@
 ### Привет! 👋
 Я Виктор Петрунин, junior тестировщик программного обеспечения
 
-### Вот что я умею
+### Вот что я умею ⚡
 - Написание тест-кейсов, чек-листов;
 - Создание отчетов о дефектах (Jira, Google Sheets);
 - Знание техник тест-дизайна;
@@ -16,7 +16,7 @@
 -  Учебный [проект](https://docs.google.com/spreadsheets/d/1nGvDaEwpIqhwsHfo_NtikDhN_UBIiSZYGXXHJk0cAwQ/edit#gid=0) по ручному тестированию веб-приложений;
 -  Учебный [проект](https://github.com/Victor1963100/CourseProject) по Java
 
-### Сертификаты Нетологии
+### Сертификаты Нетологии 🌱
 - [Английский для программистов](https://netology.ru/sharing/a12e5814ee1283b6189f803f56031d07?utm_source=social&utm_campaign=achievements;)
 - [Ручное тестирование веб-приложений;](https://netology.ru/sharing/d907180593c090cd14edc1c6e339f998?utm_source=social&utm_campaign=achievements)
 - [GIT - система контроля версий;](https://netology.ru/sharing/4df8d19f3b0bf2db3e2cd5313f6c5d6f?utm_source=social&utm_campaign=achievements)
@@ -25,7 +25,7 @@
 - [JavaScript для тестировщиков;](https://netology.ru/sharing/31c2245e913191be0f79e918aaaa312c?utm_source=social&utm_campaign=achievements)
 - [Автоматизация тестирования веб-интерфейсов;](https://netology.ru/sharing/b70f12811249c6931763e86e0c0cf0ef?utm_source=social&utm_campaign=achievements)
 
-### Обо мне
+### Обо мне 😄
 - [Мои достижения](https://netolo.gy/jPo)
 - [Рекомендательное письмо](https://docs.yandex.ru/docs/view?url=ya-mail%3A%2F%2F182958734861932538%2F1.2&name=%D0%9F%D0%B5%D1%82%D1%80%D1%83%D0%BD%D0%B8%D0%BD%20%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80.pdf&uid=18074792)
 <!--
