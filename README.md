@@ -13,8 +13,8 @@
 -  Мобильное тестирование Android-приложений с помощью [Android Studio](https://docs.google.com/document/d/1S6TGHL4RPoLkduLeEZqbp5XTkGwuWi7O0sRj6eh-pAQ/edit);
 -  Автоматизация тестирования Frontend на JavaScript с помощью [Puppeteer](https://github.com/Victor1963100/Pupeteer1), [Playwright](https://github.com/Victor1963100/Playwright), [Cypress](https://github.com/Victor1963100/Cypress_1);
 -  Знание различных видов виртуализации и контейнеризации, работа с [Docker](https://github.com/Victor1963100/Deadline-3) и [Docker Compose](https://github.com/Victor1963100/MyDocker);
--  Учебный [проект](https://docs.google.com/spreadsheets/d/1nGvDaEwpIqhwsHfo_NtikDhN_UBIiSZYGXXHJk0cAwQ/edit#gid=0) по ручному тестированию веб-приложений;
--  Учебный [проект](https://github.com/Victor1963100/CourseProject) по Java
+-  🌱 Учебный [проект](https://docs.google.com/spreadsheets/d/1nGvDaEwpIqhwsHfo_NtikDhN_UBIiSZYGXXHJk0cAwQ/edit#gid=0) по ручному тестированию веб-приложений;
+-  🌱 Учебный [проект](https://github.com/Victor1963100/CourseProject) по Java
 
 ### Сертификаты Нетологии 🌱
 - [Английский для программистов](https://netology.ru/sharing/a12e5814ee1283b6189f803f56031d07?utm_source=social&utm_campaign=achievements;)
