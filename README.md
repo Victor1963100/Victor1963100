@@ -3,7 +3,7 @@
 
 ### Вот что я умею ⚡
 - Написание тест-кейсов, чек-листов;
-- Создание отчетов о дефектах ([Jira](https://docs.google.com/document/d/1qk6isUBX8GN58RWZIa2w0Rj8dfEQaCV5YJ2ccAZwGKM/edit)), [Google Sheets](https://docs.google.com/spreadsheets/d/10CTtN6L1KC3xvQUtg-oHhdOQYpgs3gYCC6OLYFowt6Y/edit#gid=0);
+- Создание отчетов о дефектах ([Jira](https://docs.google.com/document/d/1qk6isUBX8GN58RWZIa2w0Rj8dfEQaCV5YJ2ccAZwGKM/edit)), [Google Sheets](https://docs.google.com/spreadsheets/d/10CTtN6L1KC3xvQUtg-oHhdOQYpgs3gYCC6OLYFowt6Y/edit#gid=0));
 - Знание техник тест-дизайна;
 - Умение тестировать веб-приложения, [API](https://github.com/Victor1963100/API-CI);
 - Понимание клиент-серверного взаимодействия;
