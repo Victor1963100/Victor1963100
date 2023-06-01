@@ -25,6 +25,9 @@
 - [Автоматизированное тестирование;](https://netology.ru/sharing/8d33426b4cd14cf227b0ffc49e028dd0?utm_source=social&utm_campaign=achievements)
 - [JavaScript для тестировщиков;](https://netology.ru/sharing/31c2245e913191be0f79e918aaaa312c?utm_source=social&utm_campaign=achievements)
 - [Автоматизация тестирования веб-интерфейсов;](https://netology.ru/sharing/b70f12811249c6931763e86e0c0cf0ef?utm_source=social&utm_campaign=achievements)
+
+### Обо мне
+- [Мои достижения](https://netolo.gy/jPo)
 <!--
 **Victor1963100/Victor1963100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
