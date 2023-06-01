@@ -15,7 +15,7 @@
 -  Знание различных видов виртуализации и контейнеризации, работа с Docker и Docker Compose;
 -  Процессы CI/CD: тестирование, сборка и доставка в разные окружения;
 -  Учебный [проект](https://docs.google.com/spreadsheets/d/1nGvDaEwpIqhwsHfo_NtikDhN_UBIiSZYGXXHJk0cAwQ/edit#gid=0) по ручному тестированию веб-приложений;
--  Учебный проект по Java
+-  Учебный [проект](https://github.com/Victor1963100/CourseProject) по Java
 
 ### Сертификаты Нетологии
 - [Английский для программистов](https://netology.ru/sharing/a12e5814ee1283b6189f803f56031d07?utm_source=social&utm_campaign=achievements;)
