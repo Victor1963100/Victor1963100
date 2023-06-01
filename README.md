@@ -8,7 +8,7 @@
 - Умение тестировать веб-приложения, API;
 - Понимание клиент-серверного взаимодействия;
 -  Работа с DevTools, Postman;
--  Работа с Git, одновременная работа с несколькими репозиториями;
+-  Работа с [GIT](https://github.com/netology-code/git-2-homeworks-pr), одновременная работа с несколькими репозиториями;
 -  Автотестирование веб-приложений на Java с использованием JUnit, Selenium, Selenide;
 -  Мобильное тестирование Android-приложений с помощью Android Studio;
 -  Автоматизация тестирования Frontend на JavaScript с помощью Puppeteer, Playwright, Cypress;
