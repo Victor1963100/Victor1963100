@@ -12,7 +12,7 @@
 -  Автотестирование веб-приложений на Java с использованием JUnit, Selenium, Selenide;
 -  Мобильное тестирование Android-приложений с помощью Android Studio;
 -  Автоматизация тестирования Frontend на JavaScript с помощью Puppeteer, Playwright, Cypress;
--  Знание различных видов виртуализации и контейнеризации, работа с Docker и Docker Compose;
+-  Знание различных видов виртуализации и контейнеризации, работа с [Docker](https://github.com/Victor1963100/Deadline-3) и [Docker Compose](https://github.com/Victor1963100/MyDocker);
 -  Процессы CI/CD: тестирование, сборка и доставка в разные окружения;
 -  Учебный [проект](https://docs.google.com/spreadsheets/d/1nGvDaEwpIqhwsHfo_NtikDhN_UBIiSZYGXXHJk0cAwQ/edit#gid=0) по ручному тестированию веб-приложений;
 -  Учебный [проект](https://github.com/Victor1963100/CourseProject) по Java
