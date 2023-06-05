@@ -27,7 +27,7 @@
 
 ### Обо мне 😄
 - [Мои достижения](https://netolo.gy/jPo)
-- [Рекомендательное письмо](https://docs.yandex.ru/docs/view?url=ya-mail%3A%2F%2F182958734861932538%2F1.2&name=%D0%9F%D0%B5%D1%82%D1%80%D1%83%D0%BD%D0%B8%D0%BD%20%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80.pdf&uid=18074792)
+- [Рекомендательное письмо]([https://docs.yandex.ru/docs/view?url=ya-mail%3A%2F%2F182958734861932538%2F1.2&name=%D0%9F%D0%B5%D1%82%D1%80%D1%83%D0%BD%D0%B8%D0%BD%20%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80.pdf&uid=18074792](https://drive.google.com/file/d/12UwxHZQiwutKwRus8cBZGgLOqxy1A3_M/view?usp=drive_link))
 <!--
 **Victor1963100/Victor1963100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
