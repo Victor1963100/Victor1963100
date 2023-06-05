@@ -27,7 +27,7 @@
 
 ### Обо мне 😄
 - [Мои достижения](https://netolo.gy/jPo)
-- [Рекомендательное письмо](https://drive.google.com/file/d/12UwxHZQiwutKwRus8cBZGgLOqxy1A3_M/view?usp=drive_link))
+- [Рекомендательное письмо](https://drive.google.com/file/d/12UwxHZQiwutKwRus8cBZGgLOqxy1A3_M/view?usp=drive_link)
 <!--
 **Victor1963100/Victor1963100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
