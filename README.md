@@ -24,6 +24,7 @@
 - [Автоматизированное тестирование;](https://netology.ru/sharing/8d33426b4cd14cf227b0ffc49e028dd0?utm_source=social&utm_campaign=achievements)
 - [JavaScript для тестировщиков;](https://netology.ru/sharing/31c2245e913191be0f79e918aaaa312c?utm_source=social&utm_campaign=achievements)
 - [Автоматизация тестирования веб-интерфейсов;](https://netology.ru/sharing/b70f12811249c6931763e86e0c0cf0ef?utm_source=social&utm_campaign=achievements)
+- [Тестирование производительности](https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/308525/2e4a61f17d32dea81626ae052a76883a.png?ts=1687887311)
 
 ### Обо мне 😄
 - [Мои достижения](https://netolo.gy/jPo)
