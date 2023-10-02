@@ -15,6 +15,7 @@
 -  Знание различных видов виртуализации и контейнеризации, работа с [Docker](https://github.com/Victor1963100/Deadline-3) и [Docker Compose](https://github.com/Victor1963100/MyDocker);
 -  🌱 Учебный [проект](https://docs.google.com/spreadsheets/d/1nGvDaEwpIqhwsHfo_NtikDhN_UBIiSZYGXXHJk0cAwQ/edit#gid=0) по ручному тестированию веб-приложений;
 -  🌱 Учебный [проект](https://github.com/Victor1963100/CourseProject) по Java
+-  🌱 Дипломный [проект](https://github.com/Victor1963100/Diplome_Project_V2)
 
 ### Сертификаты Нетологии 🌱
 - [Английский для программистов](https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/230049/a12e5814ee1283b6189f803f56031d07.png?ts=1671268256)
