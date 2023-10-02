@@ -17,14 +17,16 @@
 -  🌱 Учебный [проект](https://github.com/Victor1963100/CourseProject) по Java
 
 ### Сертификаты Нетологии 🌱
-- [Английский для программистов](https://netology.ru/sharing/a12e5814ee1283b6189f803f56031d07?utm_source=social&utm_campaign=achievements;)
-- [Ручное тестирование веб-приложений;](https://netology.ru/sharing/d907180593c090cd14edc1c6e339f998?utm_source=social&utm_campaign=achievements)
-- [GIT - система контроля версий;](https://netology.ru/sharing/4df8d19f3b0bf2db3e2cd5313f6c5d6f?utm_source=social&utm_campaign=achievements)
-- [Java для тестировщиков;](https://netology.ru/sharing/8c80a18c155de0c6a07fea7673f46694?utm_source=social&utm_campaign=achievements)
-- [Автоматизированное тестирование;](https://netology.ru/sharing/8d33426b4cd14cf227b0ffc49e028dd0?utm_source=social&utm_campaign=achievements)
-- [JavaScript для тестировщиков;](https://netology.ru/sharing/31c2245e913191be0f79e918aaaa312c?utm_source=social&utm_campaign=achievements)
-- [Автоматизация тестирования веб-интерфейсов;](https://netology.ru/sharing/b70f12811249c6931763e86e0c0cf0ef?utm_source=social&utm_campaign=achievements)
+- [Английский для программистов](https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/230049/a12e5814ee1283b6189f803f56031d07.png?ts=1671268256)
+- [Ручное тестирование веб-приложений;](https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/213373/d907180593c090cd14edc1c6e339f998.png?ts=1668071331)
+- [GIT - система контроля версий;](https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/229877/4df8d19f3b0bf2db3e2cd5313f6c5d6f.png?ts=1671214887)
+- [Java для тестировщиков;](https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/211491/8c80a18c155de0c6a07fea7673f46694.png?ts=1667734889)
+- [Автоматизированное тестирование;](https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/243485/8d33426b4cd14cf227b0ffc49e028dd0.png?ts=1674543748)
+- [JavaScript для тестировщиков;](https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/284775/31c2245e913191be0f79e918aaaa312c.png?ts=1682506894)
+- [Автоматизация тестирования веб-интерфейсов;](https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/284777/b70f12811249c6931763e86e0c0cf0ef.png?ts=1682506949)
 - [Тестирование производительности](https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/308525/2e4a61f17d32dea81626ae052a76883a.png?ts=1687887311)
+- [Тестирование мобильных приложений](https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/311249/55e73151a522c3ac9446ab56801b7234.png?ts=1688415186)
+- [Тестирование безопасности](https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/322474/81bf167ad1766f773a624805aa763fc2.png?ts=1690883388)
 
 ### Обо мне 😄
 - [Мои достижения](https://netolo.gy/jPo)
