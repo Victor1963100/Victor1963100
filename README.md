@@ -15,7 +15,7 @@
 -  Знание различных видов виртуализации и контейнеризации, работа с [Docker](https://github.com/Victor1963100/Deadline-3) и [Docker Compose](https://github.com/Victor1963100/MyDocker);
 -  🌱 Учебный [проект](https://docs.google.com/spreadsheets/d/1nGvDaEwpIqhwsHfo_NtikDhN_UBIiSZYGXXHJk0cAwQ/edit#gid=0) по ручному тестированию веб-приложений;
 -  🌱 Учебный [проект](https://github.com/Victor1963100/CourseProject) по Java
--  🌱 Дипломный [проект](https://github.com/Victor1963100/Diplome_Project_V2)
+-  🌱 Дипломный [проект]()
 
 ### Сертификаты Нетологии 🌱
 - [Английский для программистов](https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/230049/a12e5814ee1283b6189f803f56031d07.png?ts=1671268256)
@@ -28,6 +28,8 @@
 - [Тестирование производительности](https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/308525/2e4a61f17d32dea81626ae052a76883a.png?ts=1687887311)
 - [Тестирование мобильных приложений](https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/311249/55e73151a522c3ac9446ab56801b7234.png?ts=1688415186)
 - [Тестирование безопасности](https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/322474/81bf167ad1766f773a624805aa763fc2.png?ts=1690883388)
+- [Итоговый модуль профессии Инженер по тестированию](https://netology.ru/sharing/da2f06d71281f07037b57d90fe2c358a?utm_source=social&utm_campaign=achievements}
+- [Инженер по тестированию: с нуля доmiddle](https://netology.ru/sharing/e90b9267e54c19563930dc396c8df590?utm_source=social&utm_campaign=achievements)
 
 ### Обо мне 😄
 - [Мои достижения](https://netolo.gy/jPo)
