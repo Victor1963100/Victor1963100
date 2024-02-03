@@ -3,7 +3,7 @@
 
 ### Вот что я умею ⚡
 - Написание [тест-кейсов](https://docs.google.com/spreadsheets/d/1tTQeSMVBBraZzv7SnTIFVAEFduAGgW6u-0dSSFsXTJ4/edit#gid=0), [чек-листов](https://docs.google.com/spreadsheets/d/1JPyUJUx-1EUVtOlKCdg4P52qYHaduzqQ-bNckaahMkI/edit#gid=0);
-- Создание отчетов о дефектах ([Jira]([https://docs.google.com/document/d/1qk6isUBX8GN58RWZIa2w0Rj8dfEQaCV5YJ2ccAZwGKM/edit](http://beta-tracker.videomost.com:6895/secure/RapidBoard.jspa?rapidView=6&projectKey=BV&quickFilter=36)), [Google Sheets](https://docs.google.com/spreadsheets/d/10CTtN6L1KC3xvQUtg-oHhdOQYpgs3gYCC6OLYFowt6Y/edit#gid=0));
+- Создание отчетов о дефектах ([Jira](http://beta-tracker.videomost.com:6895/secure/RapidBoard.jspa?rapidView=6&projectKey=BV&quickFilter=36)), [Google Sheets](https://docs.google.com/spreadsheets/d/10CTtN6L1KC3xvQUtg-oHhdOQYpgs3gYCC6OLYFowt6Y/edit#gid=0);
 - Знание техник тест-дизайна;
 - Умение тестировать веб-приложения, [API](https://github.com/Victor1963100/API-CI);
 - Понимание клиент-серверного взаимодействия;
