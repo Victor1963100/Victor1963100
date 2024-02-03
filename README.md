@@ -1,5 +1,5 @@
 ### Привет! 👋
-Я Виктор Петрунин, junior тестировщик программного обеспечения
+Я Виктор Петрунин, middle тестировщик программного обеспечения
 
 ### Вот что я умею ⚡
 - Написание [тест-кейсов](https://docs.google.com/spreadsheets/d/1tTQeSMVBBraZzv7SnTIFVAEFduAGgW6u-0dSSFsXTJ4/edit#gid=0), [чек-листов](https://docs.google.com/spreadsheets/d/1JPyUJUx-1EUVtOlKCdg4P52qYHaduzqQ-bNckaahMkI/edit#gid=0);
