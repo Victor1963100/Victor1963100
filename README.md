@@ -14,7 +14,6 @@
 -  Автоматизация тестирования Frontend на JavaScript с помощью [Puppeteer](https://github.com/Victor1963100/Pupeteer1), [Playwright](https://github.com/Victor1963100/Playwright), [Cypress](https://github.com/Victor1963100/Cypress_1);
 -  Знание различных видов виртуализации и контейнеризации, работа с [Docker](https://github.com/Victor1963100/Deadline-3) и [Docker Compose](https://github.com/Victor1963100/MyDocker);
 -  🌱 Учебный [проект](https://docs.google.com/spreadsheets/d/1nGvDaEwpIqhwsHfo_NtikDhN_UBIiSZYGXXHJk0cAwQ/edit#gid=0) по ручному тестированию веб-приложений;
--  🌱 Учебный [проект](https://github.com/Victor1963100/CourseProject) по Java
 -  🌱 Дипломный [проект](https://github.com/Victor1963100/diplom_project_new_v5.2)
 
 ### Сертификаты Нетологии 🌱
