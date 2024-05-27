@@ -6,6 +6,7 @@
 - Создание отчетов о дефектах ([Jira](http://beta-tracker.videomost.com:6895/secure/RapidBoard.jspa?rapidView=6&projectKey=BV&quickFilter=36)), [Google Sheets](https://docs.google.com/spreadsheets/d/10CTtN6L1KC3xvQUtg-oHhdOQYpgs3gYCC6OLYFowt6Y/edit#gid=0);
 - Знание техник тест-дизайна;
 - Умение тестировать веб-приложения, [API](https://github.com/Victor1963100/API-CI);
+- Работа с HTML, CSS (https://github.com/Victor1963100/New_Resume/tree/main);
 - Понимание клиент-серверного взаимодействия;
 -  Работа с [DevTools](https://docs.google.com/document/d/1TGRXJnzFOc8HnARlNi05y-UPsB_WindDo0M20QP_rSU/edit), [Postman](https://github.com/Victor1963100/Postman-Echo);
 -  Работа с [GIT]([https://github.com/netology-code/git-2-homeworks-pr](https://github.com/Victor1963100/git-2-homeworks-fork)), одновременная работа с несколькими репозиториями;
